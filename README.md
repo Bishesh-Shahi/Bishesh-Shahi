@@ -19,7 +19,11 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Bishesh-Shahi/Bishesh-Shahi/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bishesh-shahi/bishesh-shahi/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bishesh-shahi/bishesh-shahi/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/bishesh-shahi/output/github-snake.svg" />
+</picture>
 
 ###
 
@@ -101,10 +105,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bishesh-Shahi&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=false" height="293" alt="activity-graph graph"  />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bishesh-shahi/bishesh-shahi/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bishesh-shahi/bishesh-shahi/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/bishesh-shahi/output/github-snake.svg" />
-</picture>
+
 
 ###
